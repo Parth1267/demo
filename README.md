@@ -1,2 +1,2 @@
 # demo
-hello world!
+print("Hello world!")
